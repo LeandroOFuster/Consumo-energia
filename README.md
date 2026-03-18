@@ -45,19 +45,3 @@ Digite o Custo do kWh (em R$): 0.85
 
 O custo diário da Geladeira é: R$ 3.06
 O custo mensal da Geladeira é: R$ 91.80
-
-## 🛠️ Tecnologias e Conceitos
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tipo-float-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Formatação-f--string-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Entrada-input()-9cf?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Saída-print()-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Operadores-Aritméticos-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
-
-## 👤 Autor
-
-Desenvolvido como projeto prático de introdução ao Python.
