@@ -8,11 +8,6 @@ Este sistema foi desenvolvido em **Python** com o objetivo de ajudar o usuário 
 
 ## 🐍 Linguagem Utilizada
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Linguagem_Principal-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Versão-3.x-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
-</p>
-
 O projeto utiliza apenas recursos nativos do Python, sem necessidade de instalar bibliotecas externas:
 
 - 🔤 `input()` — leitura de dados do usuário
